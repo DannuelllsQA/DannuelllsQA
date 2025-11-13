@@ -7,8 +7,8 @@ Después de explorar varias áreas, descubrí que mi lugar está en el testing. 
 Además, cuento con conocimientos en testing automatizado y pruebas de APIs REST, lo que me permite abordar escenarios más complejos y contribuir a la calidad del producto desde distintas perspectivas.
 Mi objetivo es seguir desarrollándome como QA, perfeccionando mis habilidades técnicas y ayudando a construir software más confiable.
 
-[![Linkedin Badge](https://img.shields.io/badge/-khushiSaxena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/daniel-eduardo-albornoz-gelatti/)].(https://www.linkedin.com/in/daniel-eduardo-albornoz-gelatti/).
-[![Gmail Badge](https://img.shields.io/badge/-KhushiSaxena@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:khushisaxenaa32@gmail.com)](Daniel.gelatti93@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/daniel-eduardo-albornoz-gelatti/)]
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:khushisaxenaa32@gmail.com)](Daniel.gelatti93@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://khushi0321.github.io/portfolio/#/)](https://khushi0321.github.io/portfolio/#/)
 
 
